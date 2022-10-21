@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pumuck3l
+- 👋 Hi, I’m unicorn
 - 👀 I’m interested in any projects, special interests are any medical applications/devices
-- 🌱 I’m currently doing my first steps and try to gain further experience
+- 🌱 I’m currently doing my first steps and try to gain further experience (C#,Python)
 - 💞️ I’m looking to collaborate on TBD ;-)
 - 📫 How to reach me:@Pumuck3l
 
